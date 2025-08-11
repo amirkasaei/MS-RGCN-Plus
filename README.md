@@ -1,5 +1,6 @@
 # MS-RGCN+
 Multi-scale relational graph convolutional network (MS-RGCN) for histopathology images of prostate cancer
+(github)[https://github.com/AIMLab-UBC/MS-RGCN]
 
 # How to run
 Use the following order of folders and their code based on your data
