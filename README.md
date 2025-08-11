@@ -1,4 +1,4 @@
-# MS-RGCN
+# MS-RGCN+
 Multi-scale relational graph convolutional network (MS-RGCN) for histopathology images of prostate cancer
 
 # How to run
