@@ -1,1 +1,7 @@
-data/
+data/VPC/multiscale_patches_Train
+data/VPC/Train
+data/VPC/Test
+data/VPC/Maps
+data/VPC/Train.zip
+data/VPC/Test.zip
+data/VPC/__MACOSX
