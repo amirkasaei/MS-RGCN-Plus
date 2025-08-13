@@ -5,3 +5,6 @@ data/VPC/Maps
 data/VPC/Train.zip
 data/VPC/Test.zip
 data/VPC/__MACOSX
+data/VPC/Normalized
+data/VPC/embeddings_paper_style
+
