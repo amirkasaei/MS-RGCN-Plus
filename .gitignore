@@ -8,3 +8,4 @@ data/VPC/__MACOSX
 data/VPC/Normalized
 data/VPC/embeddings_paper_style
 models/
+feature_extractor_6class/256_VPC_embeddings
