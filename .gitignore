@@ -9,3 +9,6 @@ data/VPC/Normalized
 data/VPC/embeddings_paper_style
 models/
 feature_extractor_6class/256_VPC_embeddings
+feature_extractor_6class/topk_neighbors.csv
+feature_extractor_6class/similarity_cosine.npy
+data/VPC/patch_embeddings_avgpool.pkl
